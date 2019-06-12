@@ -1,4 +1,3 @@
-# integral-process
 
 ## Project setup
 ```
